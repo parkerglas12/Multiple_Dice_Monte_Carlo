@@ -1,6 +1,6 @@
 # Multiple Dice Roll Monte Carlo Simulator
 
-A simple multiple dice roll Monte Carlo simulator written in Python.
+This program is a multiple dice Monte Carlo simulator written in Python. Outcome visualization is coded using Matplotlib and Seaborn.
 
 ## Features
 
